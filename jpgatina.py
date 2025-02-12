@@ -1,1 +1,1 @@
-print('Ola mundo')
+print('Vem pro fut')
